@@ -1,5 +1,8 @@
 # Bubble Sort Demo
 
+[![CI](https://github.com/wayfarer-rus/bubble-sort-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/wayfarer-rus/bubble-sort-demo/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A Python demonstration and side-by-side comparison of sorting algorithms with a terminal user interface (TUI) visualizer.
 
 ## Introduction
@@ -117,3 +120,7 @@ The equivalent Python module invocation is:
 ```bash
 python3 -m pytest
 ```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.

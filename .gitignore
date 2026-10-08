@@ -4,6 +4,10 @@ __pycache__/
 *$py.class
 .pytest_cache/
 .coverage
+.venv/
+*.egg-info/
+build/
+dist/
 
 # IDE and Editor files
 .idea/
@@ -21,6 +25,8 @@ __pycache__/
 ehthumbs.db
 Thumbs.db
 
-# Agent metadata and VM artifacts
+# Agent metadata, logs, and VM artifacts
 .junie/
 .vms/
+agent-output-*.md
+event-stream-*.txt
